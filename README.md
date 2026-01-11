@@ -43,9 +43,6 @@ The output includes:
  - A visual graph showing how many tweets are positive vs negative
  -This makes it easy to understand overall public sentiment.
 
-## Sentiment Graph
-![Sentiment Graph](sentiment_graph.png)
-
 ## Learning Outcomes
 
 - Understanding NLP and sentiment analysis
