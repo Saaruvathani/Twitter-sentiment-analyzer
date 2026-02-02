@@ -1,7 +1,7 @@
 # Twitter-sentiment-analyzer
 
 ## Project Overview 
-This project performs sentiment analysis on Twitter data using a pre-trained Hugging Face Transformer model. It processes a dataset of 7,000 tweets stored in a CSV file, classifies each tweet as positive or negative, and visualizes the overall sentiment distribution using graphs.
+This project performs sentiment analysis on Twitter data using a pre-trained Hugging Face Transformer model. It processes a dataset of 10,000 tweets stored in a CSV file, classifies each tweet as positive or negative, and visualizes the overall sentiment distribution using graphs.
 
 The goal is to understand public opinion and emotional trends expressed on social media.
 
